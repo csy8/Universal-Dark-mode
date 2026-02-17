@@ -10,6 +10,7 @@
 // @grant        GM_getValue
 // @grant        GM_registerMenuCommand
 // @run-at       document-start
+// @license MIT
 // ==/UserScript==
 
 (function () {
@@ -129,5 +130,6 @@
         console.error("[Universal Dark Mode] CRITICAL ERROR:", err);
         alert("Dark Mode Script Error: " + err);
     }
+
 
 })();
