@@ -6,6 +6,7 @@
 // @author       csy8
 // @updateURL   https://raw.githubusercontent.com/csy8/Universal-Dark-mode/main/Universal%20Dark%20Mode%20Toggle%20Button.user.js
 // @downloadURL https://raw.githubusercontent.com/csy8/Universal-Dark-mode/main/Universal%20Dark%20Mode%20Toggle%20Button.user.js
+// @icon https://raw.githubusercontent.com/csy8/Universal-Dark-mode/main/icon.png
 // @match        *://*/*
 // @grant        GM_addStyle
 // @grant        GM_setValue
@@ -135,4 +136,5 @@
 
 
 })();
+
 
