@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Universal Dark Mode Toggle Button (Ctrl+Q / Alt+Q)
+// @name:ko  원클릭 다크모드 (Ctrl+Q / Alt+Q)
 // @namespace    https://github.com/csy8
 // @version      1.3
 // @description  Toggle dark mode on any website using Ctrl+Q or Alt+Q, or Tampermonkey toolbar menu (Global CSS Override)
+// @description:ko  Ctrl+Q 또는 Alt+Q으로 다크모드 미지원 웹사이트를 다크모드로 전환할 수 있다.
 // @author       csy8
 // @updateURL   https://raw.githubusercontent.com/csy8/Universal-Dark-mode/main/Universal%20Dark%20Mode%20Toggle%20Button.user.js
 // @downloadURL https://raw.githubusercontent.com/csy8/Universal-Dark-mode/main/Universal%20Dark%20Mode%20Toggle%20Button.user.js
@@ -136,5 +138,6 @@
 
 
 })();
+
 
 
